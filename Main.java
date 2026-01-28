@@ -6,9 +6,11 @@ public class Main {
         String saludo = "Hola " + nombre + " " + apellido + " ¿Que tal?";
 
         System.out.println(saludo);
+        System.out.println("ADIOS");
     }
     
 }
+
 
 
 
