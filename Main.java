@@ -5,14 +5,15 @@ public class Main {
 
         String saludo = "Hola " + nombre + " " + apellido + " ¿Que tal?";
 
-        System.out.println(saludo);
+        imprimirDatos(saludo);
+        
     }
-    
+
+
+
+public static void imprimirDatos ( String saludo){
+    System.out.println(saludo);
 }
+    
 
-
-
-
-
-
-
+}
